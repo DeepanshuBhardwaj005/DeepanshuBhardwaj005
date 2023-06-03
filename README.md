@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif)]
+![MasterHead](https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif)
 
 <h1 align="center">Hi 👋, I'm Deepanshu Bhardwaj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
