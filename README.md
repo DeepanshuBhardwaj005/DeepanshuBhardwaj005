@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJs & NodeJs**
 
-- 👯 I’m looking to collaborate on **Frontend Web Development Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 💬 Ask me about **MERN, International Affairs**
 
